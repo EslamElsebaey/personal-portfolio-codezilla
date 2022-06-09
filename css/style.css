@@ -202,8 +202,9 @@ width: 100%;
   font-size: 1.3em;
   font-weight: 600;
 }
-.footer-title span{
+.footer-title a{
   color: #3a6cf4;
+  text-decoration: none;
 }
 .footer .social-icons a{
   font-size: 1.3em;
